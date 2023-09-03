@@ -1,0 +1,17 @@
+.center {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    font-size: large;
+    text-align: center;
+}
+
+#banner {
+    background-color:rgb(210, 230, 243);
+    color: rgb(129, 149, 124);
+    font: initial;
+}
+
+#spacer {
+    padding-top: 30px;
+}
